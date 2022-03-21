@@ -10,10 +10,6 @@
 
 ● [Entregáveis](#entregáveis)
 
-● [Configurar e Executar o Projeto](#configurar-e-executar-o-projeto)
-
-● [Tecnologias Usadas](#tecnologias-usadas)
-
 ● [Autores](#autores)
 
 ● [Agradecimentos](#agradecimentos)
